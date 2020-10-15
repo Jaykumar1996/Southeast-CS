@@ -6,4 +6,5 @@ The Southeast CS API is the primary way of interacting with the database.The API
 
 If you need to create new records, edit existing records, or delete existing records, then hitting specific API endpoints is the easiest way of achieving your goals. Both the Southeast CS Admin Panel and the Southeast CS mobile app use the API to interact with the database.
  
-
+# Admin Panel Implementation:
+The Southeast CS Admin Panel is an application that presents an easy way to create, edit, or delete data from the database. It is written in C# using the Windows Forms .NET framework; as such, it is only able to be run on a Windows PC. The users of this application will be a select few within the CS Department (e.g. the office administrator, the CS chair, professors, etc.). Users will require a unique username and a password in order to use the application.
